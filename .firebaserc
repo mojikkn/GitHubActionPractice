@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "githubaction-7c5f8",
+    "CICD": "githubaction-7c5f8"
+  },
+  "targets": {},
+  "etags": {}
+}
